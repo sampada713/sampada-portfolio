@@ -1,3 +1,3 @@
-# Responsive Animated Website created by Ankit Khadka
+# Responsive Animated Website created by Sampada Aryal
  
 
